@@ -29,8 +29,11 @@ This keeps the asset scalable and suitable for interface loading states without 
 
 Files
 genlayer-animated-spinner/
+
 ├── README.md
+
 └── genlayer-spinner.svg
+
 Preview
 
 The final animated spinner is available in genlayer-spinner.svg.
